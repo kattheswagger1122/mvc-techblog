@@ -2,45 +2,45 @@ const { User } = require('../models');
 
 const userData = [
     {
-        username: "martin_bour",
-        twitter: "martinb",
-        github: "martinb",
-        email: "martin_b@gmail.com",
+        username: "Claudia A",
+        twitter: "claudz",
+        github: "clauz",
+        email: "claudzgmail.com",
         password: "p@ssword1"
     },
     {
-        username: "matt_b",
-        twitter: "mathewb",
-        github: "mathewb",
-        email: "mathew_b@gmail.com",
+        username: "Chris B",
+        twitter: "chrisb",
+        github: "chrisb",
+        email: "chrisb@gmail.com",
         password: "p@ssword2"
     },
     {
-        username: "shaun_c",
-        twitter: "shaun",
-        github: "shaun",
-        email: "shaun_c@gmail.com",
+        username: "andy c",
+        twitter: "andy",
+        github: "andy",
+        email: "andy@gmail.com",
         password: "p@ssword3"
     },
     {
-        username: "lee_n",
-        twitter: "leenorris",
-        github: "leenorris",
-        email: "lee_n@gmail.com",
+        username: "yitee d",
+        twitter: "yitee",
+        github: "teeneasy",
+        email: "yitee@gmail.com",
         password: "p@ssword4"
     },
     {
-        username: "priya_r",
-        twitter: "priyaravi23",
-        github: "priyaravi23",
-        email: "priya_r@gmail.com",
+        username: "celine e",
+        twitter: "celine123",
+        github: "celine123",
+        email: "celine@gmail.com",
         password: "p@ssword5"
     },
     {
-        username: "pooja",
-        twitter: "pooja_w",
-        github: "pooja",
-        email: "pooja@gmail.com",
+        username: "amber f",
+        twitter: "amberf",
+        github: "amber",
+        email: "amber@gmail.com",
         password: "p@ssword6"
     }
 ]
