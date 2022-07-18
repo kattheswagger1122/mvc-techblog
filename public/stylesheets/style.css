@@ -7,7 +7,7 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    color: #333;
+    color: rgb(74, 48, 23);
   }
   
   a {
@@ -37,7 +37,7 @@
   textarea, input {
     padding: .5%;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid blanchedalmond;
   }
   
   textarea:focus, input:focus {
@@ -68,7 +68,7 @@
   }
   
   header {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid blanchedalmond;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -114,7 +114,7 @@
   .post .title span {
     font-style: italic;
     font-size: 90%;
-    color: #7d7d7d;
+    color: rgb(74, 48, 23);
   }
   
   .edit-link {
@@ -146,7 +146,7 @@
   }
   
   footer {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid blanchedalmond;
     display: flex;
     justify-content: center;
     padding: 1%;
